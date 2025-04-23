@@ -84,7 +84,7 @@ This dashboard suite enables:
 
 ## 📎 ***Files Included:***  
 > `Superstore Dashboard by Bruno Silva.pbix` - Complete Power BI project  
-> `Superstore Dashboard by Bruno Silva` - Static overview export  
+> `Superstore Dashboard by Bruno Silva.pdf` - Static overview export  
 > `superstore_preprocessing.ipynb` - Python notebook for data prep  
 > `superstore_cleaned.csv` - Preprocessed dataset ready for analysis  
 > `superstore_raw.csv` - Original dataset  
