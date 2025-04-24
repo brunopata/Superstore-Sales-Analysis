@@ -82,6 +82,12 @@ This dashboard suite enables:
   - **Shipping efficiency evaluation**
   - Insightful data storytelling for **sales strategy and operational optimization**
 
+# ✅ ***Recommendations:***
+  - **Increase Same Day promotions** in regions where fast delivery could drive conversions.
+  - **Cross-sell technology products** in the Corporate segment to increase Average Order Value.
+  - **Run Q4 campaigns** targeting high-performing categories like Office Supplies and segments like Consumer.
+  - Monitor loyalty patterns using customer orders vs sales.
+
 ## 📎 ***Files Included:***  
 > `Superstore Dashboard by Bruno Silva.pbix` - Complete Power BI project  
 > `Superstore Dashboard by Bruno Silva.pdf` - Static overview export  
