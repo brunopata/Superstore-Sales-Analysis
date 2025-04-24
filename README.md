@@ -82,7 +82,7 @@ This dashboard suite enables:
   - **Shipping efficiency evaluation**
   - Insightful data storytelling for **sales strategy and operational optimization**
 
-# ✅ ***Recommendations:***
+## ✅ ***Recommendations:***
   - **Increase Same Day promotions** in regions where fast delivery could drive conversions.
   - **Cross-sell technology products** in the Corporate segment to increase Average Order Value.
   - **Run Q4 campaigns** targeting high-performing categories like Office Supplies and segments like Consumer.
